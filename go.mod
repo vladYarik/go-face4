@@ -1,3 +1,3 @@
-module github.com/Kagami/go-face
+module github.com/vladYarik/go-face2
 
 go 1.14
